@@ -1,4 +1,6 @@
 import cv2
 import numpy as np
 import matplotlib as plt
-print('hello world 😊')
+img = cv2.imread('resources/lena.png')
+cv2.imshow("Lena",img)
+cv2.waitKey(0)
