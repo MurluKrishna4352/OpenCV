@@ -28,7 +28,7 @@ pip install --upgrade OpenHands
 
 **Latest development version:**
 ```bash
-pip install git+https://github.com/AI4Bharat/OpenHands
+pip install git+https://github.com/MurluKrishna4352/OpenHands
 ```
 
 ### Basic Usage
@@ -163,9 +163,9 @@ Contributions are welcome! Please feel free to submit issues and pull requests t
 ## Contact & Support
 
 - **Documentation**: [openhands.readthedocs.io](https://openhands.readthedocs.io)
-- **Issues**: [GitHub Issues](https://github.com/AI4Bharat/OpenHands/issues)
-- **Website**: [openhands.ai4bharat.org](https://openhands.ai4bharat.org)
+- **Issues**: [GitHub Issues](https://github.com/MurluKrishna4352/OpenHands/issues)
+- **Website**: [openhands.org](https://openhands.org)
 
 ---
 
-**Made with ❤️ by [AI4Bhārat](https://ai4bharat.org)**
+**Made with ❤️ by [OpenHands Community](https://github.com/MurluKrishna4352/OpenHands)**
